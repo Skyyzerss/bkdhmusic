@@ -1,0 +1,20 @@
+{
+  "files": {
+    "commands/bit_play.js": [
+      {
+        "id": "84ab757f-0467-4cae-95c8-bf5cc335f2df",
+        "line": 2,
+        "version": 22,
+        "index": 78
+      }
+    ],
+    "events/player/playSong.js": [
+      {
+        "id": "b34d0989-b901-407b-82d7-04d8aecdcc18",
+        "line": 11,
+        "version": 24,
+        "index": 365
+      }
+    ]
+  }
+}
